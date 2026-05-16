@@ -1,0 +1,13 @@
+# Qt runtime libraries
+*.dll
+*.qm
+# Directories
+generic/
+iconengines/
+imageformats/
+multimedia/
+networkinformation/
+platforms/
+styles/
+tls/
+translations/

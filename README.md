@@ -1,4 +1,4 @@
-# SuperChineseChess - 中国象棋
+# ChineseChess - 中国象棋
 
 基于 Qt6 开发的中国象棋桌面程序。
 
